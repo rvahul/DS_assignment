@@ -7,7 +7,7 @@ from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
 # --- 1. Configuration & Data ---
-TELEGRAM_TOKEN = "8608511197:AAEx99nmHH3K1RE59zHgDRsM1TpRUMpFhWM"
+TELEGRAM_TOKEN = "TOKEN_LINK"
 OLLAMA_URL = "http://localhost:11434/api/generate"
 
 # Knowledge base of 3-5 documents [cite: 19]
